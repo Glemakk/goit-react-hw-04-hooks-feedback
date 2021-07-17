@@ -1,0 +1,12 @@
+.notification {
+  font-weight: 700;
+  font-size: 26px;
+  background-color: rgb(235, 128, 78);
+  padding: 20px;
+  border-radius: 3px;
+  width: 330px;
+  text-align: center;
+  color: rgb(43, 42, 42);
+  box-shadow: 2px 3px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%),
+    5px 4px 6px rgb(0 0 0 / 20%);
+}
